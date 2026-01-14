@@ -98,15 +98,6 @@ PocketDoctor is built with modern frontend tools:
 
 ---
 
-## Deployment
-
-Deployment is handled seamlessly through Lovable:
-
-1. Open the project in Lovable
-2. Click **Share → Publish**
-3. Your PocketDoctor app goes live instantly
-
----
 
 ## Custom Domain Support
 
@@ -120,5 +111,4 @@ Yes, you can connect a custom domain.
 📖 Documentation:
 [https://docs.lovable.dev/features/custom-domain#custom-domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
 
-Just tell me 👍
-```
+
